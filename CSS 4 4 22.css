@@ -1,0 +1,27 @@
+
+body {
+    background-image: url("backdrop.jpg");
+    background-size: cover;
+   }
+
+body{
+    color: white;
+    text-align: left;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px #04171d;
+}
+
+h3 {
+    font-size: 12px;
+    text-align: left;
+  }
+
+.newButton
+{
+    width: 155px;
+    height: 30px;
+    background-color:rgb(134, 81, 171);
+    border-radius: 12px;
+    border-color: teal;
+}
